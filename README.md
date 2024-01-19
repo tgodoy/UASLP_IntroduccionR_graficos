@@ -2,7 +2,7 @@
 ## Dra. E. Ernestina Godoy Lozano
 
 El Curso: Introducción a R y Visualización de Datos, está enfocado en presentar una breve introducción a R y como utilizarlo para la visualización de datos con ggplot y ggpurb
-
+Fechas: 24-27 de Octubre 2023
 El propósito general es proporcionar a los asistentes los conceptos y habilidades básicas de conceptos básicos del lenguaje R.
 
 En este repositorio se encuentran los directorios de trabajo.
